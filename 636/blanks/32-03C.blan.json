@@ -1,0 +1,74 @@
+{
+    "Ar36": {
+        "error": 0.000249073687092225,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": ""
+            }
+        ],
+        "value": 0.00631339905741387
+    },
+    "Ar37": {
+        "error": 0.00751306888588311,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": ""
+            }
+        ],
+        "value": 0.017356594314708
+    },
+    "Ar38": {
+        "error": 0.0131351914288892,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": ""
+            }
+        ],
+        "value": -0.00780113207619203
+    },
+    "Ar39": {
+        "error": 0.000842987981057431,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": ""
+            }
+        ],
+        "value": 0.0129691729455978
+    },
+    "Ar40": {
+        "error": 0.0107548060324149,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": ""
+            }
+        ],
+        "value": 1.68509722046595
+    },
+    "Ar41": {
+        "error": 0.0152292995076901,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": ""
+            }
+        ],
+        "value": 0.0584799618002079
+    }
+}

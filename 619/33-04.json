@@ -1,0 +1,104 @@
+{
+    "acquisition_software": "pychron py3/18.2",
+    "aliquot": 4,
+    "analysis_type": "unknown",
+    "analyst_name": "LPeters",
+    "collection_version": "1.0:1.0",
+    "comment": "",
+    "commit": "a0ab0abf6d86f963266f9c0167d6e83e2d099dfc",
+    "conditionals": null,
+    "data_reduction_software": "pychron py3/18.2",
+    "detectors": {
+        "AX": {
+            "deflection": null,
+            "gain": null
+        },
+        "CDD": {
+            "deflection": null,
+            "gain": null
+        },
+        "H1": {
+            "deflection": null,
+            "gain": null
+        },
+        "H2": {
+            "deflection": null,
+            "gain": null
+        },
+        "L1": {
+            "deflection": null,
+            "gain": null
+        },
+        "L2": {
+            "deflection": null,
+            "gain": null
+        }
+    },
+    "environmental": {
+        "lab_humiditys": [],
+        "lab_pneumatics": [],
+        "lab_temperatures": []
+    },
+    "experiment_queue_name": "",
+    "extraction": "",
+    "identifier": "61933",
+    "increment": null,
+    "instrument_name": "",
+    "intensity_scalar": 1.0,
+    "irradiation": "NM-259",
+    "irradiation_level": "J",
+    "irradiation_position": 31,
+    "isotopes": {
+        "Ar36": {
+            "detector": "CDD",
+            "name": "Ar36",
+            "serial_id": "00000"
+        },
+        "Ar37": {
+            "detector": "L2",
+            "name": "Ar37",
+            "serial_id": "00000"
+        },
+        "Ar38": {
+            "detector": "L1",
+            "name": "Ar38",
+            "serial_id": "00000"
+        },
+        "Ar39": {
+            "detector": "AX",
+            "name": "Ar39",
+            "serial_id": "00000"
+        },
+        "Ar40": {
+            "detector": "H1",
+            "name": "Ar40",
+            "serial_id": "00000"
+        },
+        "Ar41": {
+            "detector": "H2",
+            "name": "Ar41",
+            "serial_id": "00000"
+        }
+    },
+    "laboratory": "",
+    "mass_spectrometer": "jan",
+    "material": "san/anorth",
+    "measurement": "",
+    "post_equilibration": "",
+    "post_measurement": "",
+    "principal_investigator": "",
+    "project": "Streck",
+    "queue_conditionals_name": "",
+    "repository_identifier": "Streck2015",
+    "sample": "MS-12-29.1",
+    "source": {
+        "emission": 0.0,
+        "trap": 0.0
+    },
+    "spec_sha": "c462034c6a0db5a6ae5c032137fed4067448647e",
+    "timestamp": "2013-10-09T22:34:39",
+    "tripped_conditional": null,
+    "username": "LPeters",
+    "uuid": "c65df327-05e8-4ce6-8ff9-4e2169bf8b9f",
+    "whiff_result": null
+}

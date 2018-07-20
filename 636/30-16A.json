@@ -1,0 +1,104 @@
+{
+    "acquisition_software": "pychron py3/18.2",
+    "aliquot": 16,
+    "analysis_type": "unknown",
+    "analyst_name": "MHeizler",
+    "collection_version": "1.0:1.0",
+    "comment": "",
+    "commit": "a0ab0abf6d86f963266f9c0167d6e83e2d099dfc",
+    "conditionals": null,
+    "data_reduction_software": "pychron py3/18.2",
+    "detectors": {
+        "AX": {
+            "deflection": 165.0,
+            "gain": null
+        },
+        "CDD": {
+            "deflection": 10.0,
+            "gain": null
+        },
+        "H1": {
+            "deflection": 0.0,
+            "gain": null
+        },
+        "H2": {
+            "deflection": 0.0,
+            "gain": null
+        },
+        "L1": {
+            "deflection": 320.0,
+            "gain": null
+        },
+        "L2": {
+            "deflection": 725.0,
+            "gain": null
+        }
+    },
+    "environmental": {
+        "lab_humiditys": [],
+        "lab_pneumatics": [],
+        "lab_temperatures": []
+    },
+    "experiment_queue_name": "",
+    "extraction": "",
+    "identifier": "63630",
+    "increment": 0,
+    "instrument_name": "",
+    "intensity_scalar": 1.0,
+    "irradiation": "NM-276",
+    "irradiation_level": "D",
+    "irradiation_position": 3,
+    "isotopes": {
+        "Ar36": {
+            "detector": "CDD",
+            "name": "Ar36",
+            "serial_id": "00000"
+        },
+        "Ar37": {
+            "detector": "L2",
+            "name": "Ar37",
+            "serial_id": "00000"
+        },
+        "Ar38": {
+            "detector": "L1",
+            "name": "Ar38",
+            "serial_id": "00000"
+        },
+        "Ar39": {
+            "detector": "AX",
+            "name": "Ar39",
+            "serial_id": "00000"
+        },
+        "Ar40": {
+            "detector": "H1",
+            "name": "Ar40",
+            "serial_id": "00000"
+        },
+        "Ar41": {
+            "detector": "H2",
+            "name": "Ar41",
+            "serial_id": "00000"
+        }
+    },
+    "laboratory": "",
+    "mass_spectrometer": "jan",
+    "material": "non-mag plag",
+    "measurement": "",
+    "post_equilibration": "",
+    "post_measurement": "",
+    "principal_investigator": "",
+    "project": "Streck",
+    "queue_conditionals_name": "",
+    "repository_identifier": "Streck2015",
+    "sample": "MS-12-31",
+    "source": {
+        "emission": 0.0,
+        "trap": 0.0
+    },
+    "spec_sha": "5ea1bf6d1c82476da752672bbe51f7b2878f52bb",
+    "timestamp": "2015-07-31T03:34:01",
+    "tripped_conditional": null,
+    "username": "MHeizler",
+    "uuid": "a8e6c4d2-c01d-47ff-a8d8-14bfbab36e0e",
+    "whiff_result": null
+}

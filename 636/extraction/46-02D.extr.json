@@ -1,0 +1,23 @@
+{
+    "beam_diameter": "0.0",
+    "cleanup_duration": 45.0,
+    "commit": "a0ab0abf6d86f963266f9c0167d6e83e2d099dfc",
+    "extract_device": "Fusions CO2",
+    "extract_duration": 30.0,
+    "extract_units": "",
+    "extract_value": 0.6,
+    "grain_polygon_blob": [],
+    "load_holder": "",
+    "load_name": "",
+    "measured_response": "",
+    "pattern": "triangle.lp",
+    "positions": [],
+    "ramp_duration": 0.0,
+    "ramp_rate": 0.0,
+    "requested_output": "",
+    "setpoint_stream": "",
+    "snapshots": [],
+    "tray": "",
+    "videos": [],
+    "weight": 0.0
+}

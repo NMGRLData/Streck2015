@@ -1,0 +1,100 @@
+{
+    "acquisition_software": "pychron py3/18.2",
+    "aliquot": 4436,
+    "analysis_type": "blank_unknown",
+    "analyst_name": "MHeizler",
+    "collection_version": "1.0:1.0",
+    "comment": "",
+    "commit": "5f74437763ded35e6ef901795a0b3b0751548c24",
+    "conditionals": null,
+    "data_reduction_software": "pychron py3/18.2",
+    "detectors": {
+        "CDD": {
+            "deflection": 10.0,
+            "gain": null
+        },
+        "H1": {
+            "deflection": 0.0,
+            "gain": null
+        },
+        "H2": {
+            "deflection": 0.0,
+            "gain": null
+        },
+        "L1": {
+            "deflection": 320.0,
+            "gain": null
+        },
+        "L2": {
+            "deflection": 725.0,
+            "gain": null
+        }
+    },
+    "environmental": {
+        "lab_humiditys": [],
+        "lab_pneumatics": [],
+        "lab_temperatures": []
+    },
+    "experiment_queue_name": "",
+    "extraction": "",
+    "identifier": "bu-FC-J",
+    "increment": null,
+    "instrument_name": "",
+    "intensity_scalar": 1.0,
+    "irradiation": "NoIrradiation",
+    "irradiation_level": "A",
+    "irradiation_position": 3,
+    "isotopes": {
+        "Ar36": {
+            "detector": "CDD",
+            "name": "Ar36",
+            "serial_id": "00000"
+        },
+        "Ar37": {
+            "detector": "L2",
+            "name": "Ar37",
+            "serial_id": "00000"
+        },
+        "Ar38": {
+            "detector": "L1",
+            "name": "Ar38",
+            "serial_id": "00000"
+        },
+        "Ar39": {
+            "detector": "CDD",
+            "name": "Ar39",
+            "serial_id": "00000"
+        },
+        "Ar40": {
+            "detector": "H1",
+            "name": "Ar40",
+            "serial_id": "00000"
+        },
+        "Ar41": {
+            "detector": "H2",
+            "name": "Ar41",
+            "serial_id": "00000"
+        }
+    },
+    "laboratory": "",
+    "mass_spectrometer": "jan",
+    "material": "blank",
+    "measurement": "",
+    "post_equilibration": "",
+    "post_measurement": "",
+    "principal_investigator": "",
+    "project": "REFERENCES",
+    "queue_conditionals_name": "",
+    "repository_identifier": "Streck2015",
+    "sample": "blank_unknown",
+    "source": {
+        "emission": 0.0,
+        "trap": 0.0
+    },
+    "spec_sha": "5ea1bf6d1c82476da752672bbe51f7b2878f52bb",
+    "timestamp": "2015-07-31T02:33:46",
+    "tripped_conditional": null,
+    "username": "MHeizler",
+    "uuid": "497b73ca-6f54-4339-9979-405776396486",
+    "whiff_result": null
+}

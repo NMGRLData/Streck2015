@@ -1,0 +1,104 @@
+{
+    "acquisition_software": "pychron py3/18.2",
+    "aliquot": 1302,
+    "analysis_type": "cocktail",
+    "analyst_name": "MHeizler",
+    "collection_version": "1.0:1.0",
+    "comment": "",
+    "commit": "5f74437763ded35e6ef901795a0b3b0751548c24",
+    "conditionals": null,
+    "data_reduction_software": "pychron py3/18.2",
+    "detectors": {
+        "AX": {
+            "deflection": 120.0,
+            "gain": null
+        },
+        "CDD": {
+            "deflection": 130.0,
+            "gain": null
+        },
+        "H1": {
+            "deflection": 0.0,
+            "gain": null
+        },
+        "H2": {
+            "deflection": 200.0,
+            "gain": null
+        },
+        "L1": {
+            "deflection": 200.0,
+            "gain": null
+        },
+        "L2": {
+            "deflection": 420.0,
+            "gain": null
+        }
+    },
+    "environmental": {
+        "lab_humiditys": [],
+        "lab_pneumatics": [],
+        "lab_temperatures": []
+    },
+    "experiment_queue_name": "",
+    "extraction": "",
+    "identifier": "c-01-O",
+    "increment": null,
+    "instrument_name": "",
+    "intensity_scalar": 1.0,
+    "irradiation": "NoIrradiation",
+    "irradiation_level": "A",
+    "irradiation_position": 9,
+    "isotopes": {
+        "Ar36": {
+            "detector": "CDD",
+            "name": "Ar36",
+            "serial_id": "00000"
+        },
+        "Ar37": {
+            "detector": "L2",
+            "name": "Ar37",
+            "serial_id": "00000"
+        },
+        "Ar38": {
+            "detector": "L1",
+            "name": "Ar38",
+            "serial_id": "00000"
+        },
+        "Ar39": {
+            "detector": "AX",
+            "name": "Ar39",
+            "serial_id": "00000"
+        },
+        "Ar40": {
+            "detector": "H1",
+            "name": "Ar40",
+            "serial_id": "00000"
+        },
+        "Ar41": {
+            "detector": "H2",
+            "name": "Ar41",
+            "serial_id": "00000"
+        }
+    },
+    "laboratory": "",
+    "mass_spectrometer": "obama",
+    "material": "gas",
+    "measurement": "",
+    "post_equilibration": "",
+    "post_measurement": "",
+    "principal_investigator": "",
+    "project": "REFERENCES",
+    "queue_conditionals_name": "",
+    "repository_identifier": "Streck2015",
+    "sample": "cocktail",
+    "source": {
+        "emission": 0.0,
+        "trap": 0.0
+    },
+    "spec_sha": "7e844deec9697c69c2864e6c8b0d64196a4a1f05",
+    "timestamp": "2015-07-12T19:02:29",
+    "tripped_conditional": null,
+    "username": "MHeizler",
+    "uuid": "c21d841e-c0d7-42b5-b1f3-d996185b4485",
+    "whiff_result": null
+}
